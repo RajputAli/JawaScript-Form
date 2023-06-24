@@ -1,0 +1,191 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container {
+    top: 0px;
+    position: absolute;
+    color: #fff;
+    background-color: #000000;
+    margin: 60px 0px 0px 30px;
+    border: 4px solid #00ffd0;
+    height: 700px;
+    width: 550px;
+    border-radius: 20px;
+    box-shadow: 10px 20px 30px 0px #000000;
+}
+
+.container:hover {
+    border: 5px solid #ff0000;
+    box-shadow: 10px 10px 25px 0px #000000;
+}
+
+.header {
+    font-family: 'Cinzel', serif;
+    font-size: 35px;
+    padding: 50px 0px 30px 80px;
+    text-shadow: 5px 2px 3px #00ffd0;
+
+}
+
+.name {
+    font-family: 'Cinzel', serif;
+    border-radius: 5px;
+    line-height: 60px;
+    padding-left: 30px;
+    font-size: 19px;
+}
+
+.last {
+    line-height: 60px;
+    padding-left: 30px;
+    font-family: 'Cinzel', serif;
+    font-size: 19px;
+}
+
+.age {
+    line-height: 60px;
+    padding-left: 30px;
+    font-family: 'Cinzel', serif;
+    font-size: 19px;
+}
+
+.contact {
+    line-height: 60px;
+    padding-left: 30px;
+    font-family: 'Cinzel', serif;
+    font-size: 19px;
+}
+
+.subject {
+    line-height: 60px;
+    padding-left: 30px;
+    font-family: 'Cinzel', serif;
+    font-size: 19px;
+}
+
+.registration {
+    line-height: 60px;
+    padding-left: 30px;
+    font-family: 'Cinzel', serif;
+    font-size: 19px;
+}
+
+.border {
+    font-size: 17px;
+    font-weight: bold;
+    border: 1px solid #00ffd0;
+    font-family: 'Cinzel', serif;
+    padding-left: 5px;
+    margin-left: 128px;
+    width: 300px;
+    height: 30px;
+}
+
+.border1 {
+    font-size: 17px;
+    font-weight: bold;
+    border: 1px solid #00ffd0;
+    font-family: 'Cinzel', serif;
+    padding-left: 5px;
+    margin-left: 80px;
+    width: 300px;
+    height: 30px;
+}
+
+.border2 {
+    font-size: 17px;
+    font-weight: bold;
+    border: 1px solid #00ffd0;
+    font-family: 'Cinzel', serif;
+    padding-left: 5px;
+    margin-left: 145px;
+    width: 300px;
+    height: 30px;
+}
+
+.border3 {
+    font-size: 17px;
+    font-weight: bold;
+    border: 1px solid #00ffd0;
+    font-family: 'Cinzel', serif;
+    padding-left: 5px;
+    margin-left: 92px;
+    width: 300px;
+    height: 30px;
+}
+
+.border4 {
+    font-size: 17px;
+    font-weight: bold;
+    border: 1px solid #00ffd0;
+    font-family: 'Cinzel', serif;
+    padding-left: 5px;
+    margin-left: 106px;
+    width: 300px;
+    height: 30px;
+}
+
+.border5 {
+    font-size: 17px;
+    font-weight: bold;
+    border: 1px solid #00ffd0;
+    font-family: 'Cinzel', serif;
+    padding-left: 5px;
+    margin-left: 12px;
+    width: 300px;
+    height: 30px;
+}
+
+
+.button {
+    border-color: #00ffd0;
+    color: #fff;
+    background-color: #000;
+    font-family: 'Cinzel', serif;
+    font-size: 18px;
+    border-radius: 10px;
+    margin: 40px 0px 0px 170px;
+    width: 180px;
+    height: 50px;
+}
+
+.button:hover {
+    border: 2px solid #ff0000;
+    box-shadow: 1px 5px 15px 1px #ff0000;
+}
+table{
+    left: 700px;
+    position: relative;
+}
+.table1{
+    border: 3px solid #000000;
+    font-family: 'Cinzel', serif;
+    font-size: 18px;
+    margin: 100px 0px 0px 20px;
+    line-height: 30px;
+    box-shadow: 1px 5px 15px 1px #000000;
+}
+table tr th{
+    color: #fff;
+    background-color: #000;
+    border: 3px solid #00ffd0;
+   padding: 0px 40px 0px 40px;
+   
+}
+.table1:hover{
+    border: 3px solid #ff0000;
+    box-shadow: 1px 5px 15px 1px #000000;
+}
+.table1 :hover{
+    border: 2px solid #ff0000;
+}
+
+
+   
+
+
+ 
+

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="main-container">
+    <div class="container">
+        <div class="header">
+            <b>REGISTRATION FORM</b>
+        </div>
+        <br/>
+        <hr/>
+        <br/>
+        <div class="body">
+        <form id="registration-form">
+            <label class="name">Name ;</label>
+            <input type="text" class="border" id="name" required placeholder="Enter Your Name">
+             <br/>
+             <label class="last">Last Name ;</label>
+             <input type="text" class="border1" id="last" required placeholder="Enter Your Last Name">
+             <br/>
+             <label class="subject">Age ;</label>
+             <input type="text" class="border2" id="age" required placeholder="Enter Age">
+             <br/>
+             <label class="subject">Contact ;</label>
+             <input type="text" class="border3" id="contact" required placeholder="Enter Contact">
+             <br/>
+             <label class="subject">Subject ;</label>
+             <input type="text" class="border4" id="subject" required placeholder="Enter Subject">
+             <br/>
+             <label class="registration">Registration No ;</label>
+             <input type="text" class="border5" id="registration-number" required placeholder="Enter Registration Number">
+             <br/><br/>
+             <hr/>
+             <button class="button" >Submit Form</button>
+          </form>
+        </div>
+        </div>
+        <div class="table">
+          <table id="student-table" class="table1" >
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Last Name</th>
+                <th>Age</th>
+                <th>Contact</th>
+                <th>Subject</th>
+                <th>Registration No</th>
+              </tr>
+            </thead>
+            <tbody id="student-list">
+            </tbody>
+          </table>
+        </div>
+        </div>
+    <script src="./script.js"></script>
+</body>
+</html>
